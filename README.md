@@ -1,6 +1,6 @@
 # Vengadesh Raj Portfolio
 
-Cyberpunk-themed static portfolio for Vengadesh Raj, generated from the supplied resume.
+Cyberpunk-themed static portfolio for Vengadesh Raj
 
 ## Run Locally
 
