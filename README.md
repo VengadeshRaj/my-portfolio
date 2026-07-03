@@ -4,13 +4,7 @@ Cyberpunk-themed static portfolio for Vengadesh Raj, generated from the supplied
 
 ## Run Locally
 
-Open `index.html` directly in a browser, or serve the folder with:
-
-```bash
-python3 -m http.server 5173
-```
-
-Then visit `http://localhost:5173`.
+Open `index.html` directly in a browser
 
 ## Structure
 
