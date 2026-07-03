@@ -1,6 +1,6 @@
 # Vengadesh Raj Portfolio
 
-Cyberpunk-themed static portfolio for Vengadesh Raj
+A portfolio which contains my experience and skills with Cyberpunk theme.
 
 ## Run Locally
 
